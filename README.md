@@ -1,15 +1,14 @@
-#Build a digial clock using html, css and javascript.
+##Build a digial clock using html, css and javascript.
 
 This project is a simple digital clock implemented using JavaScript. It displays the current time in hours, minutes, and seconds on a web page. The clock updates in real-time, reflecting the current time accurately.
 
 ## Features
--fully responsive and SEO 80% accessibility 100% performance 90% and etc. by 
-  lighthouse.
-- Randomly changes the background color of the page(div).
-- Uses React to handle UI components and state.
+-Get Time accurately.
+-Use in Booking website that shows seconds in accurate to geting booking timely.
+ 
 
 ## Demo
-![Demo](image.png)
+![Demo](digital.png)
 
 
 
@@ -17,9 +16,6 @@ This project is a simple digital clock implemented using JavaScript. It displays
 
 
 
-
-
-Digital Clock Project README
 
 Project Description:
 
@@ -42,7 +38,7 @@ index.html: This file contains the structure of the web page where the digital c
 
 styles.css: This file contains the CSS styles for styling the digital clock display.
 
-script.js: This file contains the JavaScript code responsible for fetching the current time and updating the clock display accordingly.
+index.js: This file contains the JavaScript code responsible for fetching the current time and updating the clock display accordingly.
 
 Technologies Used:
 
